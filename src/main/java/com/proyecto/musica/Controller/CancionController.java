@@ -1,7 +1,7 @@
 package com.proyecto.musica.Controller;
 
-import com.proyecto.musica.model.Cancion;
-import com.proyecto.musica.service.CancionService;
+import com.proyecto.musica.Model.Cancion;
+import com.proyecto.musica.Service.CancionService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
