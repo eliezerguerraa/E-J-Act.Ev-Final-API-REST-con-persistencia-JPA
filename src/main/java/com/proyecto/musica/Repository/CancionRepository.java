@@ -1,6 +1,6 @@
 package com.proyecto.musica.Repository;
 
-import com.proyecto.musica.model.Cancion;
+import com.proyecto.musica.Model.Cancion;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
