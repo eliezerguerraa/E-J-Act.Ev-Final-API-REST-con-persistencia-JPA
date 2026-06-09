@@ -113,9 +113,3 @@ En lugar de incluir el objeto `Artista` completo dentro del body de la `Cancion`
 
 ### cascade = CascadeType.ALL
 Al borrar un artista, sus canciones se borran también automáticamente en cascada. Esto mantiene la integridad referencial sin necesidad de borrarlas manualmente.
-
----
-
-## 7. Capturas de tablas en BD
-
-*(Añadir capturas de MySQL Workbench / DBeaver mostrando las tablas `artistas` y `canciones` con la FK `artista_id`)*
